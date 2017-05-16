@@ -1,0 +1,45 @@
+MLP Coursework 4
+March 2016
+
+Marking scheme
+
+Student ID:  s1687568
+
+Total Mark: 73/100
+
+
+1.   Research questions to be investigated (10 marks).  
+Marks awarded for clear presentation of the research questions you are exploring.
+ - introduction and motivation [2/5]
+ - research questions [5/5]
+
+The introduction includes a description of the dataset. It would be good to include some further background on the task, what the aim of the report is, and to explicitly state the research questions and their motivations here. The research questions are interesting, e.g. curriculum learning, Bayesian optimisation and teacher-student experiments.
+
+2.   Methods (30 marks).  
+Marks awarded for clear presentation of the methods (network architectures, learning schedules, etc.) that were used, and an outline of how they were implemented in TensorFlow.
+ - motivation for methods and experimental design [6/10]
+ - presentation of methods used [18/20]
+
+When quoting the baseline accuracy from coursework 3 it would be good to briefly state what the architecture was. Some of the methods could be presented and motivated in more detail, with an indication to what TensorFlow modules were used. Others were very well detailed, such as the RNN implementation. Some of the experiments could be merged into more coherent sections, e.g. the multiple curriculum learning experiments could be combined, and then discussed together. This would also allow a combination of figures which would take up less space.
+
+3.   Results and discussion (40 marks).  
+Marks awarded for clear presentation of results, discussion and interpretation of results, conclusions, further work.
+ - presentation of results [14/20]
+ - discussion and interpretation of results [7/10]
+ - conclusions [9/10]
+
+When presenting results for curriculum learning it would have been good to explicitly refer to and include the baseline results for comparisons in figures and the discussions. Good conclusions. It would be great to spend more time in the discussion of the results, perhaps investigating them more closely by plotting histograms of parameters or through visualisations.
+
+4.   Presentation and clarity of report (20 marks). 
+Marks awarded for overall structure, clear and concise presentation, providing enough information to enable work to be reproduced, clear and concise presentation of results, informative discussion and conclusions.
+ - overall structure, organisation, and writing style [1/5]
+ - clear description of experiments, reproducibility [5/5]
+ - presentation of results [4/5]
+ - discussion and conclusion [2/5]
+
+The report is much too long. For such a long report it is crucial to have section numbers. It is not necessary to detail implementations that did not work, unless there are interesting takeaways with respect to the research questions. It would be good with an overall conclusion, summarising the experiments and providing the main takeaways from the report.
+
+5.   Additional Comments.
+
+
+

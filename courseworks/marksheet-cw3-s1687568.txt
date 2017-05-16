@@ -1,0 +1,53 @@
+MLP Coursework 3
+February 2016
+
+Marking scheme
+
+Student ID:  s1687568
+
+Total Mark: 71/100
+
+
+1.   Research questions to be investigated (10 marks).  
+Marks awarded for clear presentation of the research questions you are exploring.
+ - introduction and motivation [4/5]
+ - research questions [4/5]
+
+The introduction is ok, with some notes on the dataset. It would be nice with a visualisation, or to perhaps note the state-of-the-art results in literature. Interesting research questions, though explicitly mention the research questions in the introduction.
+
+2.   Methods (30 marks).  
+Marks awarded for clear presentation of the methods (network architectures, learning schedules, etc.) that were used, and an outline of how they were implemented in TensorFlow.
+ - motivation for methods and experimental design [9/10]
+ - presentation of methods used [13/20]
+
+It would be good to present the methods (such as dropout) in a bit more detail, perhaps including references to their original papers, along with their respective Tensorflow modules.
+
+3.   Results and discussion (40 marks).  
+Marks awarded for clear presentation of results, discussion and interpretation of results, conclusions.
+ - presentation of results [15/20]
+ - discussion and interpretation of results [5/10]
+ - conclusions [7/10]
+
+The figures are easy to read, but it would be good to show all experimental conditions for a particular hypothesis in a single figure (for example, validation accuracies for different layer depths in the same figure). Complement the figures with tables showing the most important results. It seems like experiments could be run for more epochs, or that the step size in computing validation accuracies is too broad. The discussions could go more in-depth, trying to explain observations given theory.  Many experiments!
+
+4.   Presentation and clarity of report (20 marks). 
+Marks awarded for overall structure, clear and concise presentation, providing enough information to enable work to be reproduced, clear and concise presentation of results, informative discussion and conclusions.
+ - overall structure, organisation, and writing style [3/5]
+ - clear description of experiments, reproducibility [5/5]
+ - presentation of results [3/5]
+ - discussion and conclusion [3/5]
+
+Experiments are well described and reproducible. The report is much too long. It would be good to focus on fewer experiments in more detail. Many of the figures could be combined, see above. Avoid direct quotes such as the one on page 25, it is better to rephrase in your own words (though keeping the citation). It would be good to include a final discussion and conclusion, relating the results of the many experiments in the report.
+
+5.   Additional Comments.
+
+
+
+Comments on Further Work:
+both recursive NNs and curriculum learning are interesting directions
+
+For general comments on coursework 4 please see the FAQ on the course webpage:
+http://www.inf.ed.ac.uk/teaching/courses/mlp/2016/cw4-faq.html
+This will be updated as new questions are asked.  Of course, also look at the Piazza forum.
+
+

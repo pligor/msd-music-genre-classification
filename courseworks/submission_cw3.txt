@@ -1,0 +1,43 @@
+student@student-HP-ENVY-dv7-Notebook-PC:~$ ssh s1687568@student.ssh.inf.ed.ac.uks1687568@student.ssh.inf.ed.ac.uk's password: 
+Last login: Fri Feb 10 21:53:23 2017 from 31.205.24.216
+This is student.ssh.inf.ed.ac.uk running Scientific Linux 7 (sl7) DICE.
+It is just a gateway from the internet to our systems, so please now
+'ssh student.login' before doing anything else, and remember to run
+any heavy/demanding programs on the compute server student.compute
+[schiff]s1687568: ssh student.login
+Last login: Fri Feb 10 21:53:38 2017 from schiff.inf.ed.ac.uk
+This is the SL7 student login server.  
+Please run any heavy/demanding programs on the compute server student.compute
+[vulcan]s1687568: ls
+Desktop    Downloads   mlpractical  Pictures  Templates  Yesterday
+Documents  miniconda2  Music        Public    Videos
+[vulcan]s1687568: cd Desktop/
+[vulcan]s1687568: ls
+amp_data.mat
+coursework1_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+coursework2_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+coursework3_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+Dropbox-Uploader
+iamlans
+iamlans1
+iamlans2
+iamlans3
+MachineLearningPractical
+marksheet-cw1-s1687568.txt
+submitAssignment1output.txt
+submitMLPcoursework1output.txt
+[vulcan]s1687568: submit mlp 3 coursework3_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip 
+
+Please wait! "submit" has not yet finished.
+
+This sometimes takes a while. Please be patient.
+
+
+Submit the following for exercise 3 of course mlp.
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/coursework3_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+Is this correct (y/n: n aborts)? y
+
+
+Submission of the following for exercise 3 of course mlp succeeded:
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/coursework3_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+

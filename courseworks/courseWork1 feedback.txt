@@ -1,0 +1,57 @@
+MLP Coursework 1 
+October 2016
+
+Marking scheme
+
+Student ID:  s1687568
+
+Total Mark: 82/100
+
+A very good report.
+
+Part 1, Learning Rate Schedules (10 marks). 
+Marks awarded for completeness of implementation, experimental methodology, experimental results.
+Check list
+ -implement one time-dependent schedule [5/5]
+ -comparison of time-dependent vs constant learning rate [2/2]
+ -explore hyperparameters [3/3]
+ 
+Very good.
+
+Part 2, Momentum Learning Rule (15 marks). 
+Marks awarded for completeness of implementation, experimental methodology, experimental results.
+Check list
+ -implement momentum with hyperparameter [5/5]
+ -compare vanilla GD vs GD+momentum for different momentum hyperparam values [2/3]
+ -explore how momentum hyperparam influences training in terms of learning curve and final accuracy (training + validation sets) [4/4]
+ -investigate momentum rate schedules [1/3]
+
+It would be good to be more explicit in comparing vanilla GD vs GD+momentum, and to run more experiments with the hyperparameters of the momentum rate schedule.
+
+Part 3, Adaptive Learning Rules (40 marks). 
+Marks awarded for completeness of implementation, experimental methodology, experimental results.
+Check list
+ -Implement two adaptive learning rules [20/20: 12 for the first, 8 for the second]
+ -compare each adaptive learning rate vs GD+momentum vs vanilla-GD [7/10]
+ -explore hyperparameter varition for each adaptive LR approach [8/10]
+
+This is good, but could again be a little bit more specific in comparing to previous techniques in terms of both final measures and training evolution, and try some more settings of the hyperparameters.
+
+Presentation and clarity of report (25 marks).
+Marks awarded for overall structure, clear and concise presentation, providing enough information to enable work to be reproduced, clear and concise presentation of results, informative discussion and conclusions.
+Check list
+ - overall structure, organisation, and writing style [5/7]
+ - clear description of experiments, reproducibility [6/7]
+ - presentation of results [6/7]
+ - discussion and conclusion [3/4]
+
+Explain all notation when including equations. The structure could be improved, with clearly delineating introductions,
+experiment methodologies, results and corresponding discussion.
+Multiple settings of hyperparameters can be plotted on the same graph or tabled in the same table,
+affording easier comparisons between hyperparameter settings, and also cutting down on the length of the paper.
+Think more in terms of a research paper. Also it would be good to motivate the reasons for setting various hyperparameters.
+
+Additional Excellence (10 marks). 
+Marks awarded for significant personal insight, creativity, originality, and/or extra depth and academic maturity.
+
+Good to see plots of learning rate and coefficient evolutions [5]

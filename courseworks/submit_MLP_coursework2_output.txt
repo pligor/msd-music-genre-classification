@@ -1,0 +1,15 @@
+[vulcan]s1687568: submit mlp 2 coursework2_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip 
+
+Please wait! "submit" has not yet finished.
+
+This sometimes takes a while. Please be patient.
+
+
+Submit the following for exercise 2 of course mlp.
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/coursework2_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+Is this correct (y/n: n aborts)? y
+
+
+Submission of the following for exercise 2 of course mlp succeeded:
+/afs/inf.ed.ac.uk/user/s16/s1687568/Desktop/coursework2_mlp_deliverables_Georgios_Pligoropoulos_s1687568.zip
+
